@@ -1,0 +1,29 @@
+{
+  "name": "mini-vue3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/renderer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/fanxiaochao88/mini-vue.git"
+  },
+  "keywords": [
+    "fanxiaochao"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fanxiaochao88/mini-vue/issues"
+  },
+  "homepage": "https://github.com/fanxiaochao88/mini-vue#readme",
+  "devDependencies": {
+    "eslint": "^8.25.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.3.0",
+    "eslint-plugin-promise": "^6.0.1"
+  }
+}
